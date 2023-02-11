@@ -7,6 +7,7 @@
 //   a: 10,
 //   b: "abc"
 // };
+//
 
 // console.log(myObject);
 
